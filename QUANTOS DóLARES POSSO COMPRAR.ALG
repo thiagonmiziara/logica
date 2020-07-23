@@ -1,4 +1,4 @@
-Algoritmo "Quantos dólares posso comprar"
+Algoritmo "conversor de R$ para US$"
 //  
 //  
 // 
@@ -7,12 +7,20 @@ Algoritmo "Quantos dólares posso comprar"
 // Autor(a)    : Thiago Nunes Miziara
 // Data atual  : 22/7/2020
 Var
+   cont,qtd:inteiro
    dolar,reais:real
 
 
 Inicio
-      Escreva("Quantos R$ tenho na carteira")
-      leia(reais)
-      dolar<-reais/5.11
-      escreva("Com R$",reais," posso comprar US$",dolar)
+      cont<-1
+      Escreva("Quantas vezes você que converter:")
+      Leia(qtd)
+      Enquanto (cont <=qtd) faca
+            Escreva("Quantos R$ tenho : ")
+            leia(reais)
+            dolar<-reais/5.11
+            EscrevaL("Com R$",reais," posso comprar US$",dolar)
+            EscrevaL("_________________________________________")
+            cont<-cont+1
+      FimEnquanto
 Fimalgoritmo
