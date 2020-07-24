@@ -1,4 +1,6 @@
 Algoritmo "SomadorNumerico"
+//  
+//  
 // 
 //  
 // Descrição   : Aqui você descreve o que o programa faz! (função)
@@ -10,7 +12,7 @@ Var
 Inicio
        cont<-1
        s<-0
-       Enquanto (cont<=10) faca
+       Enquanto (cont<=5) faca
        Escreva("Digite o ",cont,"o. Valor: ")
        Leia(n)
        Se (n>maior) entao
