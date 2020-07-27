@@ -1,4 +1,4 @@
-Algoritmo "creuza02"
+Algoritmo "conversor"
 // 
 //  
 // Descrição   : converte reais em dolares

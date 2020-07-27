@@ -1,8 +1,8 @@
 Algoritmo "Tabuada"
 //
 //
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
+// Descrição   : mostra a tabuada do numero digitado
+// Autor(a)    : Thiago Nunes Miziara
 // Data atual  : 24/7/2020
 Var
    cont,n,res:inteiro

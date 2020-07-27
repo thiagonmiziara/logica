@@ -1,8 +1,8 @@
-Algoritmo "AnalisadorValores"
+Algoritmo "analisadorValores"
 // 
 //  
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
+// Descrição   : Analisa valores ,soma e mostra a media entre os pares
+// Autor(a)    : Thiago Nunes Miziara
 // Data atual  : 24/7/2020
 Var
     V, C, S, DI5, NUL, SPAR: Inteiro

@@ -1,7 +1,7 @@
-Algoritmo "FlaXFlu"
+Algoritmo "partida de futebol"
 // 
 //  
-// Descrição   : define se foi empate,normale goleada
+// Descrição   : define se foi empate,normal e goleada
 // Autor(a)    : Thiago Nunes Miziara
 // Data atual  : 23/7/2020
 Var

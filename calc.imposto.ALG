@@ -1,4 +1,4 @@
-Algoritmo "creuza04"
+Algoritmo "calculaimposto"
 // 
 //  
 // Descrição   : cauculo de imposto 60%

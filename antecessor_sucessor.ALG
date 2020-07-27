@@ -1,4 +1,4 @@
-Algoritmo "antecessor e Sucessor"
+Algoritmo "Antecessor e Sucessor"
 //  
 //  
 // 

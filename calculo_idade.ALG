@@ -1,7 +1,7 @@
-Algoritmo "creuza 01"
+Algoritmo "calculodeidade"
 // 
 //  
-// Descrição   : Aqui você descreve o que o programa faz! (função)
+// Descrição   : calcula sua idade
 // Autor(a)    : Thiago Nunes Miziara
 // Data atual  : 21/7/2020
 Var

@@ -1,4 +1,4 @@
-Algoritmo "creuza03"
+Algoritmo "converte temperatura"
 // 
 //  
 // Descrição   : converte a temperatura

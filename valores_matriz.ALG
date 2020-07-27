@@ -1,8 +1,8 @@
 Algoritmo "ValoresMatriz"
 // 
 //  
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
+// Descrição   : mostra a soma dos valores 
+// Autor(a)    : Thiago Nunes Miziara
 // Data atual  : 27/7/2020
 Var
    m:vetor[1..4,1..4] de Inteiro

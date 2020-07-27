@@ -3,7 +3,7 @@ Algoritmo "SomadorNumerico"
 //  
 // 
 //  
-// Descrição   : Aqui você descreve o que o programa faz! (função)
+// Descrição   : Soma valores e mostra maior e menor numero digitado
 // Autor(a)    : Thiago Nunes Miziara
 // Data atual  : 23/7/2020
 Var

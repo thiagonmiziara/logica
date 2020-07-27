@@ -1,4 +1,4 @@
-Algoritmo "AnalisadorDeStrings"
+Algoritmo "analisadorDeStrings"
 // 
 //  
 // Descrição   : mostra os atalhos predefinidos do visualg
@@ -11,7 +11,7 @@ Var
 Inicio
       Escreva("Digite seu nome: ")
       Leia(n)
-      EscrevaL("Toal de letras do seu nome e :", compr(n))
+      EscrevaL("Total de letras do seu nome e :", compr(n))
       EscrevaL("Seu nome em maiusculas e :", maiusc(n))
       EscrevaL("Seu nome em minusculas e :", minusc(n))
       EscrevaL("A primeira letra do seu nome e :",copia(n,1,1))
